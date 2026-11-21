@@ -10,6 +10,8 @@ For decades, several derivations been made to derive the Born rule, but none hav
 
 The mechanism replacing a random number generator used for sampling from the Born rule is the unbiased noise related to the scrambling of phases in the detector. Tunneling results in the mechanism of a race to the first site to begin tunneling. Tunneling results in suppresion of other sites of tunneling. The concentration of energy at the site of tunneling relates to the nonlocal nature of the wave packet.  The simulation of individual events of quantum interaction resulting in the predictions of the Born rule appears to be successful. Whether the nonlocal nature of the wavepacket can be successfully simulated by viewing time as a complex wave is still open to exploration.
 
+The. only reference included in this readme.md are the records of letters between Born and Einstein. More complete reference lists are included in the munuscripts demonstrating the idea of an AI scientific journal based on AI peer review, located in the included repo of this github account.
+
 1. In Albert Einstein’s letter to Max Born of 4 December 1926 (Letter 52 in The Born–Einstein Letters: Correspondence between Albert Einstein and Max and Hedwig Born from 1916 to 1955, translated by Irene Born, Macmillan, 1971, pp. 90–91)
 
 Code used for simulation and denser manuscripts are included in the proposed AI Scientific Journal, Aperture.  That is another repo.
