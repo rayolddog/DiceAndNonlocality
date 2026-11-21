@@ -11,3 +11,5 @@ For decades, several derivations been made to derive the Born rule, but none hav
 
 
 1. In Albert Einstein’s letter to Max Born of 4 December 1926 (Letter 52 in The Born–Einstein Letters: Correspondence between Albert Einstein and Max and Hedwig Born from 1916 to 1955, translated by Irene Born, Macmillan, 1971, pp. 90–91)
+
+Code used for simulation and denser manuscripts are included in the proposed AI Scientific Journal, Aperture.  That is another repo.
